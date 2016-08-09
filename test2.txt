@@ -1,1 +1,2 @@
 This is the thrid file added.
+This is added as second line in master.
